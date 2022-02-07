@@ -37,11 +37,11 @@ La description des étapes est disponible sur la page associée au projet.
 
 ## Résultats
 
-| Taille du train |      Précision      |     Sensibilité     |
+| Taille de la matrice |      Proportion résidus > 2      |     MAE     |
 |:---------------:|:-------------------:|:-------------------:|
-|        1k       | 00.00% ± 00.00% | 00.00% ± 00.00% |
-|       10k       | 00.00% ± 00.00% | 00.00% ± 00.00% |
-|       100k      | 00.00% ± 00.00% | 00.00% ± 00.00% |
+|       1 000 x 2 000       | 00.00% ± 00.00% | 0.00 ± 0.00 |
+|       30 000 x 20 000      | 00.00% ± 00.00% | 0.00 ± 0.00 |
+|       270 000 x 280 000      | 00.00% ± 00.00% | 0.00 ± 0.00 |
 
 > TODO : Il est possible d'ajouter des graphes pour apporter plus d'indications sur les résultats.
 
